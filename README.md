@@ -12,11 +12,11 @@
 
 | Your system | Installer | Requirements | Status |
 |---|---|---|---|
-| **Windows** | [QuickSnap_0.1.0_x64-setup.exe](https://github.com/vikingcodes/quicksnap-releases/releases/download/v0.1.0-preview.2/QuickSnap_0.1.0_x64-setup.exe) | Windows 10 or 11, 64-bit | Preview. An earlier build was tested on Windows 10 |
-| **Mac** | [QuickSnap_0.1.0_aarch64.dmg](https://github.com/vikingcodes/quicksnap-releases/releases/download/v0.1.0-preview.2/QuickSnap_0.1.0_aarch64.dmg) | Apple Silicon Macs only (no Intel build yet) | Built automatically, **not tested** |
-| **Linux** | [QuickSnap_0.1.0_amd64.deb](https://github.com/vikingcodes/quicksnap-releases/releases/download/v0.1.0-preview.2/QuickSnap_0.1.0_amd64.deb) | 64-bit, built on Ubuntu 24.04 (use a similarly recent distribution) | Built automatically, **not tested** |
+| **Windows** | [QuickSnap_0.1.0_x64-setup.exe](https://github.com/vikingcodes/quicksnap-releases/releases/download/v0.1.0-preview.3/QuickSnap_0.1.0_x64-setup.exe) | Windows 10 or 11, 64-bit | Preview. Installed and launched on Windows 10 before publishing |
+| **Mac** | [QuickSnap_0.1.0_aarch64.dmg](https://github.com/vikingcodes/quicksnap-releases/releases/download/v0.1.0-preview.3/QuickSnap_0.1.0_aarch64.dmg) | Apple Silicon Macs only (no Intel build yet) | Built automatically, **not tested** |
+| **Linux** | [QuickSnap_0.1.0_amd64.deb](https://github.com/vikingcodes/quicksnap-releases/releases/download/v0.1.0-preview.3/QuickSnap_0.1.0_amd64.deb) | 64-bit, built on Ubuntu 24.04 (use a similarly recent distribution) | Built automatically, **not tested** |
 
-All files are on the [latest release page](https://github.com/vikingcodes/quicksnap-releases/releases/tag/v0.1.0-preview.2), together with `SHA256SUMS.txt` so you can [verify your download](#verify-your-download).
+All files are on the [latest release page](https://github.com/vikingcodes/quicksnap-releases/releases/tag/v0.1.0-preview.3), together with `SHA256SUMS.txt` so you can [verify your download](#verify-your-download).
 
 ## What is QuickSnap?
 
@@ -83,7 +83,7 @@ Compare each file's SHA-256 checksum with `SHA256SUMS.txt` from the release:
 
 | File | SHA-256 |
 |---|---|
-| `QuickSnap_0.1.0_x64-setup.exe` | `d379f73789ff74a92f2f4b849891ffb3c08280831b18c77708e8ef2c25757664` |
+| `QuickSnap_0.1.0_x64-setup.exe` | `defdda710d60b99081af3a5224698a9b585026f4495468f9b04cc5a47c098266` |
 | `QuickSnap_0.1.0_aarch64.dmg` | `45d673f7cc75003188f99a4b065d2370fd0fb4d56b3aba14868b3006a1ea151b` |
 | `QuickSnap_0.1.0_amd64.deb` | `4e705cbd73d0cfe6586eb8f99f80d1eb8f1f3af086e2daa16b2de527d4db8409` |
 
