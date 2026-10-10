@@ -94,7 +94,7 @@ Compare each file's SHA-256 checksum with `SHA256SUMS.txt` from the release:
 ## Privacy
 
 - Your screenshots stay on your computer. **These builds contain no upload code.**
-- Nothing is sent automatically: no screenshots, annotation text or clipboard contents leave your machine, and there is no analytics.
+- Nothing is sent automatically: no screenshots, annotation text or clipboard contents leave your machine, and the app contains no analytics. (The website, quicksnaptool.com, uses Google Analytics only if you click Allow on its cookie banner.)
 - Files are saved only where you choose, or to `Pictures\QuickSnap` when you use instant save.
 - Settings (shortcuts, format, options) are stored in a small settings file on your computer.
 
